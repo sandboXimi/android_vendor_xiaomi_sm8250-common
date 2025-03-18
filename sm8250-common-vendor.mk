@@ -201,9 +201,6 @@ PRODUCT_PACKAGES += \
     libaudcal \
     libbluetooth_audio_session_qti \
     libbluetooth_audio_session_qti_2_1 \
-    libcapiv2svacnn \
-    libcapiv2svarnn \
-    libcapiv2vop \
     libfastcrc \
     libgcs-calwrapper \
     libgcs-ipc \
