@@ -204,6 +204,9 @@ PRODUCT_PACKAGES += \
     libbluetooth_audio_session_qti_2_1 \
     libcomprcapture \
     libexthwplugin \
+    libcapiv2svacnn \
+    libcapiv2svarnn \
+    libcapiv2vop \
     libfastcrc \
     libgcs-calwrapper \
     libgcs-ipc \
